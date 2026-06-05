@@ -1,2 +1,1 @@
-# Grupo4-Villalba-Bitacoras-4to4ta-2026
-Bitácoras de mi trabajo en el proyecto final de la materia Proyecto Informático 1
+Bueno, hoy estuvimos viendo algún componente para usar en nuestro proyecto y encontramos para usar la pantalla de 7 segmentos y 4 dígitos. Como test, hicimos un circuito que tenga 2 pantallas, una que muestre los segundos y otro que muestre el segundo en el que debes detenerte, si presionabas un botón justo cuando eran los 10 segundos se prendía un led RGB en verde y si te pasabas se prendía ese mismo RGB en rojo. Usamos ChatGPT y un video del canal Ing. René Domínguez. El título del video era Control de Display de 7 segmentos 4 dígitos - Curso Básico de Arduino UNO.
