@@ -1,2 +1,1 @@
-# Grupo4-Villalba-Bitacoras-4to4ta-2026
-Bitácoras de mi trabajo en el proyecto final de la materia Proyecto Informático 1
+Agregamos dos cosas nuevas al juego de la bomba y es que se sumen 10 segundos cuando respondas bien y que además puedas borrsr tu respuesta si escribiste algo mal, también armamos una maqueta para colocar todos los componentes y que quede bonito, ayudé a mis compañeros con las conexiones
