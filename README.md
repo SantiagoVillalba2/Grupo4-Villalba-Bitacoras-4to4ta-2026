@@ -1,2 +1,1 @@
-# Grupo4-Villalba-Bitacoras-4to4ta-2026
-Bitácoras de mi trabajo en el proyecto final de la materia Proyecto Informático 1
+Hoy pudimos terminar el proyecto en físico con mi equipo, agarramos una caja y armamos todo el juego de la bomba, conectando la pantalla, conectando el teclado y el arduino. Quedó bonito.
